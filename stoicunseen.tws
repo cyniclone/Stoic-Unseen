@@ -193,7 +193,7 @@ Tiddler
 p70
 (dp71
 g21
-V<<silently>><<set $daysleft = 32>><<set $anxiety = 30>><<endsilently>><<display 'daysleft'>><<display 'feelings'>>You stare blankly at an open spreadsheet document. You find it somewhat difficult to concentrate on your work. You have been feeling anxious lately. Your breathing has been sharp and inconsistent, and everything seems somewhat surreal.\u000a\u000aYou ignore your anxiety and continue working. It's 11:15 AM, and you've been working diligently for a few hours. You head to the break room to fill up your coffee mug.\u000a\u000aYou encounter your co-worker, [[Linus|linus]].\u000aYou engage in small-talk for a few minutes. Eventually, he expresses concern.\u000a\u000a"Have you been feeling alright man? You seem a little spaced out lately."\u000a\u000a[[Tell him you're fine|imfine]]\u000a[[Tell him you're feeling strange|strange]]\u000a\u000a
+V<<silently>><<set $daysleft = 32>><<set $anxiety = 30>><<endsilently>><<display 'daysleft'>><<display 'feelings'>>You stare blankly at an open spreadsheet document. You find it somewhat difficult to concentrate on your work. You have been feeling anxious lately. Your breathing has been sharp and inconsistent, and everything seems somewhat surreal.\u000a\u000aYou ignore your anxiety and continue working. It's 11:15 AM, and you've been working diligently for a few hours. You head to the break room to fill up your coffee mug.\u000a\u000aYou encounter your co-worker, [[Linus|linus]].\u000aYou engage in small-talk for a few minutes. Eventually, he expresses concern.\u000a\u000a"Have you been feeling alright man? You seem a little spaced out lately."\u000a\u000a[[Tell him you're fine|fine]]\u000a[[Tell him you're feeling strange|strange]]\u000a\u000a
 p72
 sg23
 Voffice1
@@ -202,12 +202,12 @@ sg25
 g26
 ((I2014
 I12
-I5
+I14
 I13
-I42
-I12
-I4
-I339
+I40
+I1
+I6
+I348
 I0
 tp74
 (dp75
@@ -286,7 +286,7 @@ I00
 sg15
 (lp99
 F570.0
-aF150.0
+aF290.0
 asg17
 (itiddlywiki
 Tiddler
@@ -296,18 +296,18 @@ g21
 VNot wanting to make a big deal out of it, you tell Linus that you're feeling fine. He expressed his relief. After a few more minutes of small-talk, he heads back to his desk.\u000a\u000aYour phone rings. It's [[Eric|eric]]\u000a\u000a[[Pick up the phone|answereric]]\u000a[[Let it go to voicemail|dontanswereric]]
 p102
 sg23
-Vimfine
+Vfine
 p103
 sg25
 g26
 ((I2014
-I11
-I30
-I22
-I10
-I23
+I12
+I14
+I13
+I39
+I46
 I6
-I334
+I348
 I0
 tp104
 (dp105
@@ -797,7 +797,7 @@ g14
 I00
 sg15
 (lp255
-F430.0
+F710.0
 aF290.0
 asg17
 (itiddlywiki
@@ -1196,7 +1196,7 @@ tp373
 Rp374
 sbsa(dp375
 g14
-I01
+I00
 sg15
 (lp376
 F570.0
