@@ -1,7 +1,7 @@
 (dp0
 S'buildDestination'
 p1
-V/Users/Nicolas/Desktop/git/Stoic-Unseen/stoic/index.html
+V/Users/Nicolas/Desktop/git/Stoic-Unseen/stoic/stoic.html
 p2
 sS'saveDestination'
 p3
@@ -12,7 +12,7 @@ p5
 (dp6
 sS'target'
 p7
-S'jonah'
+S'sugarcane'
 p8
 sS'storyPanel'
 p9
@@ -193,7 +193,7 @@ Tiddler
 p70
 (dp71
 g21
-V/* Your story will use the CSS in this passage to style the page.\u000aGive this passage more tags, and it will only affect passages with those tags.\u000aExample selectors: */\u000a\u000abody {\u000a	/* This affects the entire page */\u000a	\u000a	\u000a}\u000a\u000a\u000a.passage {\u000a	/* This only affects passages */\u000a	max-width:60%;\u000a	\u000a}\u000a.passage a {\u000a	/* This affects passage links */\u000a	color:#2bc0d1\u000a	\u000a}\u000a.passage a:hover {\u000a	/* This affects links while the cursor is over them */\u000a	\u000a	\u000a}\u000a\u000a.red {\u000a	color:red;\u000a}\u000a\u000a.yellow {\u000a	color:yellow;\u000a}\u000a\u000a.voice {\u000a	margin-left:10px;\u000a	color:red;\u000a}\u000a\u000ah2 {\u000a	font-size: 120%;\u000a}\u000a\u000a.chapter {\u000a	font-color: #888;\u000a}
+V/* Your story will use the CSS in this passage to style the page.\u000aGive this passage more tags, and it will only affect passages with those tags.\u000aExample selectors: */\u000a\u000abody {\u000a	/* This affects the entire page */\u000a	\u000a	\u000a}\u000a\u000a\u000a.passage {\u000a	/* This only affects passages */\u000a	max-width:60%;\u000a	\u000a}\u000a.passage a {\u000a	/* This affects passage links */\u000a	color:#2bc0d1\u000a	\u000a}\u000a.passage a:hover {\u000a	/* This affects links while the cursor is over them */\u000a	\u000a	\u000a}\u000a\u000a.red {\u000a	color:red;\u000a}\u000a\u000a.yellow {\u000a	color:yellow;\u000a}\u000a\u000a.voice {\u000a	font-size:110%;\u000a	color:red;\u000a}\u000a\u000ah2 {\u000a	font-size: 120%;\u000a}\u000a\u000a.chapter {\u000a	font-color: #888;\u000a}
 p72
 sg23
 Vstyle
@@ -203,9 +203,9 @@ g26
 ((I2014
 I12
 I15
-I21
-I51
-I59
+I22
+I43
+I15
 I0
 I349
 I0
@@ -453,7 +453,7 @@ Tiddler
 p150
 (dp151
 g21
-VYou met Eric while taking a course together in college. Eric has helped you get out of your shell, and has helped you to become more sociable. You credit Eric with some of your developmental progress as an adult.\u000a\u000aEric started a lucrative and successful Internet startup company after college. Now, his involvement in the company is limited and he generally works from home.\u000a\u000aEric is a risk-taker, and manages to maintain a successful lifestyle despite being somewhat of a party animal.\u000a\u000a[[Back|previous()]]
+V<strong>Eric Holton</strong>\u000a\u000aYou met Eric while taking a course together in college. Eric has helped you get out of your shell, and has helped you to become more sociable. You credit Eric with some of your developmental progress as an adult.\u000a\u000aEric started a lucrative and successful Internet startup company after college. Now, his involvement in the company is limited and he generally works from home.\u000a\u000aEric is a risk-taker, and manages to maintain a successful lifestyle despite being somewhat of a party animal.\u000a\u000a[[Back|previous()]]
 p152
 sg23
 VEric
@@ -463,9 +463,9 @@ g26
 ((I2014
 I12
 I15
-I21
-I42
-I36
+I22
+I26
+I10
 I0
 I349
 I0
@@ -805,7 +805,7 @@ Tiddler
 p256
 (dp257
 g21
-V<h2>Sunday, April 14th, 2024\u000aV. Substance</h2>\u000a\u000aAfter getting some rest, you feel a bit rejuvenated. As much as you enjoy spending time with Hayley, she wears you out sometimes.\u000a\u000aYour friend [[Eric]] invited you to his housewarming party. Since it's going to be a small party, and you know everyone attending, you feel comfortable. \u000a\u000aIt's a breath of fresh air to see everyone's familiar faces again. Conversation feels natural, and everybody seems to be having a good time.\u000a\u000aAfter a couple of hours, it's just you, Eric, and your friend Sean. While talking, Eric nonchalantly reveals a small orange bottle from his desk drawer. He casually gives one to Sean, and the two of them swallow their pills. You aren't exactly sure what it is.\u000a\u000a\u201cKen?\u201d\u000aEric gesticulates towards you, inviting you to partake. You give him a puzzled look.\u000a\u000a\u201cThis is [[clastrophene]]. I get it from my psychiatrist. It's really a nice way to relax in the evening.\u201d\u000a\u000aYou mention that you've scheduled an appointment with a psychiatrist in May and you're having a tough time waiting. The three of you discuss work, stress, doctors, and a variety of other topics.\u000a\u000aThe allure of immediate relief from the pill is tempting, but you respectfully decline, as you don't know much about this substance and its effects.\u000a\u000a\u201cWhen did Eric get into taking pills?\u201d you think to yourself. \u000a\u000aThe party seems to have taken a strange turn, and you aren't really comfortable with it. Eric's new form of \u201crecreation\u201d only reminds you how long you have to wait until a psychiatrist can see you. You feel somewhat apprehensive about taking meds, but realize that you will probably have to.\u000a\u000aThe three of you watch a movie, and you decide to take off afterwards. You say goodbye to Eric and Sean then head back home.\u000a\u000aYou text with Hayley a bit while watching the news, then head off to bed. As usual, you experience difficulty [[falling asleep.|6.1]]\u000a
+V<h2>Sunday, April 14th, 2024\u000aV. Substance</h2>\u000a\u000aAfter getting some rest, you feel a bit rejuvenated. As much as you enjoy spending time with Hayley, she wears you out sometimes.\u000a\u000aYour friend [[Eric]] invited you to his housewarming party. Since it's going to be a small party, and you know everyone attending, you feel comfortable. \u000a\u000aIt's a breath of fresh air to see everyone's familiar faces again. Conversation feels natural, and everybody seems to be having a good time.\u000a\u000aAfter a couple of hours, it's just you, Eric, and your friend Sean. While talking, Eric nonchalantly reveals a small orange prescription bottle from his desk drawer. The pills in the bottle rattle as he retrieves it. He casually gives one to Sean, and the two of them swallow their pills. You aren't exactly sure what it is.\u000a\u000a\u201cKen?\u201d\u000aEric gesticulates towards you, inviting you to partake. You give him a puzzled look.\u000a\u000a\u201cThis is [[clastrophene]]. I get it from my psychiatrist. It's really a nice way to relax in the evening.\u201d\u000a\u000aYou mention that you've scheduled an appointment with a psychiatrist in May and you're having a tough time waiting. The three of you discuss work, stress, doctors, and a variety of other topics.\u000a\u000aThe allure of immediate relief from the pill is tempting, but you respectfully decline, as you don't know much about this substance and its effects.\u000a\u000a\u201cWhen did Eric get into taking pills?\u201d you think to yourself. \u000a\u000aThe party seems to have taken a strange turn, and you aren't really comfortable with it. Eric's new form of \u201crecreation\u201d only reminds you how long you have to wait until a psychiatrist can see you. You feel somewhat apprehensive about taking meds, but realize that you will probably have to.\u000a\u000aThe three of you watch a movie, and you decide to take off afterwards. You say goodbye to Eric and Sean then head back home.\u000a\u000aYou text with Hayley a bit while watching the news, then head off to bed. As usual, you experience difficulty [[falling asleep.|6.1]]\u000a
 p258
 sg23
 V5.1
@@ -815,9 +815,9 @@ g26
 ((I2014
 I12
 I15
-I21
-I44
-I24
+I22
+I31
+I38
 I0
 I349
 I0
@@ -1055,7 +1055,7 @@ Tiddler
 p331
 (dp332
 g21
-V<h2>Thursday, April 18th, 2024\u000aVII. Until the Dust Settles</h2>\u000a\u000aIt's time to go to work. You place your half-finished cereal bowl in the sink, and kiss Hayley goodbye as she leaves. You have been up since 5:00, pacing quietly around your apartment. It bothers you that Hayley seems so well rested and energetic all the time.\u000a\u000aYou are absolutely sick of work. You have been shirking some of your responsibilities onto another co-workers, and have been disengaged from your colleagues. \u000a\u000a\u201cI should have reconciled these accounts days ago\u2026\u201d you think to yourself. You are fully aware that you have not been performing adequately, but you just don't care.\u000a\u000aYour worst fear becomes a reality. Inga approaches you.\u000a\u201cKen, we need to talk about the Genelba contract. Let's meet in 104 at 9:30.\u201d\u000a\u201cOkay.\u201d\u000a\u000aYour heart races. You know you're going to be criticized. Inga is not diplomatic in her criticism, and you don't always handle it well. Anxiety claws at you, placing its bitter stranglehold on your mind.\u000a\u000a<hr>\u000aInga sits down across from you. You are visibly anxious. As anticipated, Inga initiates a discussion about your lack of occupational involvement. She is unusually diplomatic today. She appears kind and speaks to you gingerly, even though you've been wasting space around the office for the past week and a half.\u000a\u000a\u201cI am so fucked. I am SO fucked.\u201d you tell yourself. Your breathing quickens. The corners of your eyes tear as you attempt to maintain your composure.\u000a\u000a\u201cIs everything alright, Ken?\u201d\u000a\u000aInga has picked up on your emotional distress. She is surprisingly sympathetic. You explain your recent feelings. She nods and listens. Suddenly, the voice of intuition begins to speak.\u000a\u000a<span class="voice">\u201dYou must tell her. Tell her that you're done here.\u201d</span>\u000a\u000aYou want to \u201ctalk back\u201d to your intuition, but it gets louder and clearer every day.\u000a\u000aYou are paralyzed with fear, unsure how to proceed. Thankfully, Inga is sympathetic to your needs. \u000a\u000a\u201cListen, why don't you take the rest of the week off? I can train Tanya to work on the Genelba contract until you get back.\u201d\u000a\u000aYou are taken aback by her willingness to accommodate you. It seems that Inga truly values you as a co-worker. As much as you want to leave and never come back, you tell her that you'll be back Monday. You thank her profusely for her understanding.\u000a\u000aInga embraces you.\u000a\u201cA lot of people don't make it this far, Ken. You're doing fine. Just get some rest and we'll pick up on Monday.\u201d\u000a\u000aHer embrace means a lot to you. Inga is not normally this tender and emotive. Her managerial skills have improved a lot since you began working with her. You take a moment to realize that you have a strong bond with Inga through your work.\u000a\u000aAs she walks back to her cubicle, you examine her figure. She has been losing weight since her divorce. You wish you had the kind of drive and motivation Inga does.\u000a\u000a<hr>\u000aAs you drive back home, you can't stop thinking about what's going to happen. Can you really keep this job? How are you going to explain to Hayley why you're not working? Why is Inga so nice all of a sudden?\u000a\u000aYou don't know how to handle all of this leisure time you suddenly have. It's the middle of the day and you aren't working. You thought you would feel better after going home, but you still feel uneasy.\u000a\u000aYou pick up the novel you've been reading, and try to relax. As you read, you take interest in a certain passage:\u000a\u000a<i>The jailhouse dust does not bother me. I dance with the dust every day. \u000aIt is my friend, my enemy, my lover.</i>\u000a\u000aYou feel strangely driven by this text. This passage seems nonsensical, but inspiring all the same. Suddenly, you begin to feel a surge of energy and motivation. You put the book down, stand and begin pacing.\u000a\u000aThese words speak to a different part of you. Intuition takes hold again.\u000a\u000a<span class="voice">\u201cGo. You know you have work to do.\u201d</span>\u000a\u000aYou feel consumed by a burning desire.\u000a\u000aYou rush into your car and start the engine. Unsure where you're going, you only know that you are about to depart for an important destination. You feel a sense of purpose. You feel alive for the first time in ages.\u000a\u000aYour car roars out of the driveway, and you speed towards the freeway. You realize now that you are driving to Boulder, about forty miles away. It's as if an unseen force drives you.\u000a\u000a<hr>\u000aYour mind continues racing. You can barely contain yourself as you exit the freeway. As if by instinct, you drive to the nearest mall and park. Entering the mall, you take pleasure in this feeling of aliveness.\u000a\u000aThe mall enchants you. The incredible array of merchandise illuminates itself to you, drawing you inward. Impulsively, you begin to shop. You've needed to buy some things for a while.\u000a\u000aYou purchase a new watch, some cologne, and several pairs of shoes. You run to your car to place the merchandise inside. Then you rush back in and repeat the process. You are drawn helplessly to the allure of buying. Every time you swipe your credit card, a surge of excitement rushes through you.\u000a\u000aAs you walk throughout the mall, you begin to notice the striking young women surrounding you. Everywhere you look, gorgeous women seem to abound. You think of Hayley.\u000a\u000aYou set down your shopping bags and pull out your phone. For the first time in a while, you initiate a text conversation with her.\u000a\u000a\u201cWhat's up?\u201d\u000a\u201cI'm about to go to work. How was your day? Feeling any better?\u201d\u000aYou are unsure how to respond. You figure it's probably not a good idea to tell Hayley about what happened at work yet.\u000a\u000aYou feel euphoric, but slightly anxious. Anxious that the feeling will stop. You continue texting with Hayley, and suddenly decide to make a bold move.\u000a\u000aYou abruptly change the topic of your text conversation.\u000a\u201cI want you, now.\u201d\u000a\u000aA few minutes pass, and there is no response. You're having second thoughts about the text you just sent. Eventually, you receive a response.\u000a\u000a\u201chah, I was just thinking the same thing :) I'm not doing anything right now. You should come over!!\u201d\u000a\u000aYou are confused as to why you are suddenly \u201cin the mood.\u201d You haven't been very physical with Hayley lately. The anticipation of seeing her delights you, and squelches your concerns about your mood change.\u000a\u000aHayley is confused when you explain that you're at a shopping mall almost an hour away. However, she seems more pleased than concerned about your recent mood change. She probably hasn't felt satisfied in a while.\u000a\u000aYou carry your shopping bags back to your car. You start the car and [[drive haphazardly back into town.|7.2]]
+V<h2>Thursday, April 18th, 2024\u000aVII. Until the Dust Settles</h2>\u000a\u000aIt's time to go to work. You place your half-finished cereal bowl in the sink, and kiss Hayley goodbye as she leaves. You have been up since 5:00, pacing quietly around your apartment. It bothers you that Hayley seems so well rested and energetic all the time.\u000a\u000aYou are absolutely sick of work. You have been shirking some of your responsibilities onto another co-workers, and have been disengaged from your colleagues. \u000a\u000a\u201cI should have reconciled these accounts days ago\u2026\u201d you think to yourself. You are fully aware that you have not been performing adequately, but you just don't care.\u000a\u000aYour worst fear becomes a reality. Inga approaches you.\u000a\u201cKen, we need to talk about the Genelba contract. Let's meet in 104 at 9:30.\u201d\u000a\u201cOkay.\u201d\u000a\u000aYour heart races. You know you're going to be criticized. Inga is not diplomatic in her criticism, and you don't always handle it well. Anxiety claws at you, placing its bitter stranglehold on your mind.\u000a\u000a<hr>\u000aInga sits down across from you. You are visibly anxious. As anticipated, Inga initiates a discussion about your lack of occupational involvement. She is unusually diplomatic today. She appears kind and speaks to you gingerly, even though you've been wasting space around the office for the past week and a half.\u000a\u000a\u201cI am so fucked. I am SO fucked.\u201d you tell yourself. Your breathing quickens. The corners of your eyes tear as you attempt to maintain your composure.\u000a\u000a\u201cIs everything alright, Ken?\u201d\u000a\u000aInga has picked up on your emotional distress. She is surprisingly sympathetic. You explain your recent feelings. She nods and listens. Suddenly, the voice of intuition begins to speak.\u000a\u000a<span class="voice">\u201dYou must tell her. Tell her that you're done here.\u201d</span>\u000a\u000aYou want to \u201ctalk back\u201d to your intuition, but it gets louder and clearer every day.\u000a\u000aYou are paralyzed with fear, unsure how to proceed. Thankfully, Inga is sympathetic to your needs. \u000a\u000a\u201cListen, why don't you take the rest of the week off? I can train Tanya to work on the Genelba contract until you get back.\u201d\u000a\u000aYou are taken aback by her willingness to accommodate you. It seems that Inga truly values you as a co-worker. As much as you want to leave and never come back, you tell her that you'll be back Monday. You thank her profusely for her understanding.\u000a\u000aInga embraces you.\u000a\u201cA lot of people don't make it this far, Ken. You're doing fine. Just get some rest and we'll pick up on Monday.\u201d\u000a\u000aHer embrace means a lot to you. Inga is not normally this tender and emotive. Her managerial skills have improved a lot since you began working with her. You take a moment to realize that you have a strong bond with Inga through your work.\u000a\u000aAs she walks back to her cubicle, you examine her figure. She has been losing weight since her divorce. You wish you had the kind of drive and motivation Inga does.\u000a\u000a<hr>\u000aAs you drive back home, you can't stop thinking about what's going to happen. Can you really keep this job? How are you going to explain to Hayley why you're not working? Why is Inga so nice all of a sudden?\u000a\u000aYou don't know how to handle all of this leisure time you suddenly have. It's the middle of the day and you aren't working. You thought you would feel better after going home, but you still feel uneasy.\u000a\u000aYou pick up the novel you've been reading, and try to relax. As you read, you take interest in a certain passage:\u000a\u000a<i>The jailhouse dust does not bother me. I dance with the dust every day. \u000aIt is my friend, my enemy, my lover.</i>\u000a\u000aYou feel strangely driven by this text. This passage seems nonsensical, but inspiring all the same. Suddenly, you begin to feel a surge of energy and motivation. You put the book down, stand and begin pacing.\u000a\u000aThese words speak to a different part of you. Intuition takes hold again.\u000a\u000a<span class="voice">\u201cGo. You know you have work to do.\u201d</span>\u000a\u000aYou feel consumed by a burning desire.\u000a\u000aYou rush into your car and start the engine. Unsure where you're going, you only know that you are about to depart for an important destination. You feel a sense of purpose. You feel alive for the first time in ages.\u000a\u000aYour car roars out of the driveway, and you speed towards the freeway. You realize now that you are driving to Boulder, about forty miles away. It's as if an unseen force drives you.\u000a\u000a<hr>\u000aYour mind continues racing. You can barely contain yourself as you exit the freeway. As if by instinct, you drive to the nearest mall and park your car. Entering the mall, you take pleasure in this feeling of aliveness.\u000a\u000aThe mall enchants you. The incredible array of merchandise illuminates itself to you, drawing you inward. Impulsively, you begin to shop. You've needed to buy some things for a while.\u000a\u000aYou purchase a new watch, some cologne, and several pairs of shoes. You run to your car to place the merchandise inside. Then you rush back in and repeat the process. You are drawn helplessly to the allure of buying. Every time you swipe your credit card, a surge of excitement rushes through you.\u000a\u000aAs you walk throughout the mall, you begin to notice the striking young women surrounding you. Everywhere you look, gorgeous women seem to abound. You think of Hayley.\u000a\u000aYou set down your shopping bags and pull out your phone. For the first time in a while, you initiate a text conversation with her.\u000a\u000a\u201cWhat's up?\u201d\u000a\u201cI'm about to go to work. How was your day? Feeling any better?\u201d\u000aYou are unsure how to respond. You figure it's probably not a good idea to tell Hayley about what happened at work yet.\u000a\u000aYou feel euphoric, but slightly anxious. Anxious that the feeling will stop. You continue texting with Hayley, and suddenly decide to make a bold move.\u000a\u000aYou abruptly change the topic of your text conversation.\u000a\u201cI want you, now.\u201d\u000a\u000aA few minutes pass, and there is no response. You're having second thoughts about the text you just sent. Eventually, you receive a response.\u000a\u000a\u201chah, I was just thinking the same thing :) I'm not doing anything right now. You should come over!!\u201d\u000a\u000aYou are confused as to why you are suddenly \u201cin the mood.\u201d You haven't been very physical with Hayley lately. The anticipation of seeing her delights you, and squelches your concerns about your mood change.\u000a\u000aHayley is confused when you explain that you're at a shopping mall almost an hour away. However, she seems more pleased than concerned about your recent mood change. She probably hasn't felt satisfied in a while.\u000a\u000aYou carry your shopping bags back to your car. You start the car and [[drive haphazardly back into town.|7.2]]
 p333
 sg23
 V7.1
@@ -1065,9 +1065,9 @@ g26
 ((I2014
 I12
 I15
-I21
-I55
-I30
+I22
+I39
+I14
 I0
 I349
 I0
@@ -1205,7 +1205,7 @@ Tiddler
 p376
 (dp377
 g21
-VThe Voice of Intuition is strong today.\u000a\u000a<span class="voice">\u201cYou made the right decision, Ken. Do not accept mediocrity.\u201d</span>\u000a\u000aAs you speed down the highway with no particular destination in mind, you receive a text from Inga.\u000a\u000a<"Hope you're doing better today, kiddo.\u201d\u000a\u000aYou think about Inga. You are still hopelessly overwhelmed with lust. Even though you have a long-standing professional relationship, you can't help but fantasize about her.\u000a\u000aYou light a cigarette as you continue speeding down the highway. After driving aimlessly for another hour, you head back home.\u000a\u000a<hr>\u000a\u000aDuring the rest of the weekend, the voice of intuition grows louder and clearer. You begin respond more readily to it.\u000a\u000aOn Sunday evening, the voice warns you that you will face danger at work tomorrow. Since breaking things off with Hayley, you feel a sense of divine purpose. You feel entitled, ethereal, and enamored with your recent burst of energy. The thought of seeing a psychiatrist seems pointless. \u000a\u000aYou don't feel like sleeping. You must [[remain vigilant.|9.1]] The voice has told you so.\u000a
+VThe Voice of Intuition is strong today.\u000a\u000a<span class="voice">\u201cYou made the right decision, Ken. Do not accept mediocrity.\u201d</span>\u000a\u000aAs you speed down the highway with no particular destination in mind, you receive a text from Inga.\u000a\u000a"Hope you're doing better today, kiddo.\u201d\u000a\u000aYou think about Inga. You are still hopelessly overwhelmed with lust. Even though you have a long-standing professional relationship, you can't help but fantasize about her.\u000a\u000aYou light a cigarette as you continue speeding down the highway. After driving aimlessly for another hour, you head back home.\u000a\u000a<hr>\u000a\u000aDuring the rest of the weekend, the voice of intuition grows louder and clearer. You begin respond more readily to it.\u000a\u000aOn Sunday evening, the voice warns you that you will face danger at work tomorrow. Since breaking things off with Hayley, you feel a sense of divine purpose. You feel entitled, ethereal, and enamored with your recent burst of energy. The thought of seeing a psychiatrist seems pointless. \u000a\u000aYou don't feel like sleeping. You must [[remain vigilant.|9.1]] The voice has told you so.\u000a
 p378
 sg23
 V8.2
@@ -1215,9 +1215,9 @@ g26
 ((I2014
 I12
 I15
-I21
-I58
-I46
+I22
+I42
+I19
 I0
 I349
 I0
@@ -1455,7 +1455,7 @@ Tiddler
 p451
 (dp452
 g21
-VAlthough Stoic Unseen is fiction, mental health problems are a reality. Psychiatric care is in overwhelming demand, and victims of mental illness often struggle to obtain access to a psychiatrist.\u000a\u000aPlease share this story if you enjoyed it. \u000a\u000a<a>Share on Facebook</a>\u000a\u000aIf you want to help, please consider <a href="http://www.nami.org/template.cfm?section=Ways_and_How_to_Give">donating to NAMI</a>. The National Alliance on Mental Illness offers support for people and their families affected by mental illness.
+VAlthough Stoic Unseen is fiction, mental health problems are a reality. Psychiatric care is in overwhelming demand, and victims of mental illness often struggle to obtain access to a psychiatrist.\u000a\u000aPlease share this story if you enjoyed it. \u000a\u000a<div class="fb-share-button" data-href="http://naguirre.com/stoic/stoic.html" data-layout="button_count"></div>\u000a\u000aIf you want to help, please consider <a href="http://www.nami.org/template.cfm?section=Ways_and_How_to_Give">donating to NAMI</a> or participating in a <a href="http://www.namiwalks.org/">NAMIWalk</a>. The National Alliance on Mental Illness offers support for people and their families affected by mental illness.
 p453
 sg23
 VEnd
@@ -1466,8 +1466,8 @@ g26
 I12
 I15
 I22
-I7
-I35
+I56
+I33
 I0
 I349
 I0
