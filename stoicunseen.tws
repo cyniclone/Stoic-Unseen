@@ -1,7 +1,7 @@
 (dp0
 S'buildDestination'
 p1
-V/Users/Nicolas/Desktop/git/Stoic-Unseen/stoic/stoic1.html
+V/Users/Nicolas/Desktop/git/Stoic-Unseen/stoic/stoic.html
 p2
 sS'saveDestination'
 p3
@@ -1452,7 +1452,7 @@ tp451
 Rp452
 sbsa(dp453
 g18
-I00
+I01
 sg19
 (lp454
 F290.0
@@ -1463,7 +1463,7 @@ Tiddler
 p455
 (dp456
 g25
-VAlthough Stoic Unseen is fiction, mental health problems are a reality. Psychiatric care is in overwhelming demand, and victims of mental illness often struggle to obtain access to a psychiatrist.\u000a\u000aPlease share this story if you enjoyed it. \u000a\u000aIf you want to help, please consider <a href="http://www.nami.org/template.cfm?section=Ways_and_How_to_Give">donating to NAMI</a> or participating in a <a href="http://www.namiwalks.org/">NAMIWalk</a>. The National Alliance on Mental Illness offers support for people and their families affected by mental illness.
+VAlthough Stoic Unseen is fiction, mental health problems are a reality. Psychiatric care is in overwhelming demand, and victims of mental illness often struggle to obtain access to a psychiatrist.\u000a\u000aPlease share this story if you enjoyed it. \u000a\u000aIf you want to help, please consider [[donating to NAMI|http://www.nami.org/template.cfm?section=Ways_and_How_to_Give]] or participating in a [[NAMIWalk|http://www.namiwalks.org/]]. The National Alliance on Mental Illness offers support for people and their families affected by mental illness.
 p457
 sg27
 VEnd
@@ -1472,12 +1472,12 @@ sg29
 g30
 ((I2014
 I12
-I15
-I23
-I12
-I48
+I16
 I0
-I349
+I0
+I32
+I1
+I350
 I0
 tp459
 (dp460
